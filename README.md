@@ -9,7 +9,7 @@ I am following a youtube series to learn React.
 
 ## Day 2
 
-* Today i tried to integrate css in my react application.
+* Today i tried to integrate css in my react application(Facing issues :) ).
 
 
 ## Available Scripts
