@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I am following a youtube series to learn React.
+
+## Day 1
+
+* Today i just understood projet structure of a react application.
+* Also i make my first react app(Hello React world).
+
+
 
 ## Available Scripts
 
