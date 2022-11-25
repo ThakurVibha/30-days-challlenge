@@ -7,6 +7,9 @@ I am following a youtube series to learn React.
 * Today i just understood projet structure of a react application.
 * Also i make my first react app(Hello React world).
 
+## Day 2
+
+* Today i tried to integrate css in my react application.
 
 
 ## Available Scripts
